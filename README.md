@@ -1,6 +1,6 @@
 
 
-<p align="center">Olá! Sou o Diogo Filipe. <br><br>Um programador apaixonado pelo desenvolvimento Web, adoro a parte de infraestrutura também! Mexer com redes e servidores, entre outras coisas votladas a infra...</p>&nbsp;
+<p align="center">Olá! Sou o Diogo Filipe. <br><br>Um programador apaixonado pelo desenvolvimento Web, adoro a parte de infraestrutura também! Mexer com redes e servidores, entre outras coisas voltadas a infra...</p>&nbsp;
 <div  align="center" style="margin-bottom:100px">
  </div>
  
